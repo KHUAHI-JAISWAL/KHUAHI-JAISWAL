@@ -7,7 +7,7 @@
 
 ---
 
-📧 **Email ** 👉 Khushi.jaiswal0611@gmail.com  — For Collaboration / Projects
+📧 **Email Me** 👉 ✉️ your-email@gmail.com — For Collaboration / Projects
 
 - 🎓 Currently: Data Analytics Student, exploring SQL, Power BI, Tableau & Python
 - 🔭 I'm currently working on: Dashboard projects using **Power BI & Tableau**
@@ -44,12 +44,12 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🌆 3D Contribution Calendar
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KHUAHI-JAISWAL/KHUAHI-JAISWAL/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/KHUAHI-JAISWAL/KHUAHI-JAISWAL/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
-> ℹ️ Snake animation needs a one-time GitHub Actions setup — ask me and I'll give you the workflow file.
+> ℹ️ Needs a one-time GitHub Actions setup — workflow file provided below.
 
 ---
 
