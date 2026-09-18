@@ -7,7 +7,7 @@
 
 ---
 
-📧 **Email Me** 👉 ✉️ your-email@gmail.com — For Collaboration / Projects
+📧 **Email Me** 👉 Khushi.jaiswal0611@gmail.com — For Collaboration / Projects
 
 - 🎓 Currently: Data Analytics Student, exploring SQL, Power BI, Tableau & Python
 - 🔭 I'm currently working on: Dashboard projects using **Power BI & Tableau**
@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/KHUAHI-JAISWAL/KHUAHI-JAISWAL/output/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
-> ℹ️ Needs a one-time GitHub Actions setup — workflow file provided below.
+> 
 
 ---
 
