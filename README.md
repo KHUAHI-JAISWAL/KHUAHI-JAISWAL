@@ -50,9 +50,7 @@
 </p>
 
 > 
-
 ---
-
 ### 📈 Data Analyst Arsenal 📊
 <p align="center">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -64,16 +62,12 @@
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
-
 ---
-
 ### 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,jupyter,docker,aws" />
 </p>
-
 ---
-
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KHUAHI-JAISWAL&show_icons=true&theme=radical&count_private=true" height="165" />
@@ -82,24 +76,13 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KHUAHI-JAISWAL&theme=radical" />
 </p>
-
 ---
-
 ### 👀 Profile Insights
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KHUAHI-JAISWAL&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/KHUAHI-JAISWAL?label=FOLLOWERS&style=for-the-badge&color=blue" />
 </p>
-
 ---
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
 ### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=KHUAHI-JAISWAL&limit=5&theme=radical&combine_all_yearly_contributions=true" />
