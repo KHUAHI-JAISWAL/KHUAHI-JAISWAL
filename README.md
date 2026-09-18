@@ -48,7 +48,7 @@
   <img src="https://raw.githubusercontent.com/KHUAHI-JAISWAL/KHUAHI-JAISWAL/output/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
-> ℹ️ Needs a one-time GitHub Actions setup — workflow file provided below.
+> 
 
 ---
 
