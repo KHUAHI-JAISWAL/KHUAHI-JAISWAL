@@ -7,7 +7,7 @@
 
 ---
 
-📧 **Email Me** 👉 ✉️ your-Khushi.jaiswal0611@gmail.com — For Collaboration / Projects
+📧 **Email ** 👉 Khushi.jaiswal0611@gmail.com  — For Collaboration / Projects
 
 - 🎓 Currently: Data Analytics Student, exploring SQL, Power BI, Tableau & Python
 - 🔭 I'm currently working on: Dashboard projects using **Power BI & Tableau**
@@ -21,7 +21,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KHUSHI-JAISWAL&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KHUAHI-JAISWAL&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KHUSHI-JAISWAL/KHUSHI-JAISWAL/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/KHUAHI-JAISWAL/KHUAHI-JAISWAL/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 > ℹ️ Snake animation needs a one-time GitHub Actions setup — ask me and I'll give you the workflow file.
@@ -76,19 +76,19 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KHUSHI-JAISWAL&show_icons=true&theme=radical&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHUSHI-JAISWAL&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KHUAHI-JAISWAL&show_icons=true&theme=radical&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHUAHI-JAISWAL&layout=compact&theme=radical" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KHUSHI-JAISWAL&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KHUAHI-JAISWAL&theme=radical" />
 </p>
 
 ---
 
 ### 👀 Profile Insights
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KHUSHI-JAISWAL&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/KHUSHI-JAISWAL?label=FOLLOWERS&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=KHUAHI-JAISWAL&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/KHUAHI-JAISWAL?label=FOLLOWERS&style=for-the-badge&color=blue" />
 </p>
 
 ---
@@ -102,9 +102,9 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=KHUSHI-JAISWAL&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=KHUAHI-JAISWAL&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/KHUSHI-JAISWAL">KHUSHI-JAISWAL</a></p>
+<p align="center">⭐️ From <a href="https://github.com/KHUAHI-JAISWAL">KHUAHI-JAISWAL</a></p>
